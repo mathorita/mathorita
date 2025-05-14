@@ -35,6 +35,4 @@ Here are a few things I'm building and improving:
 - 🌐 English: Fluent | Portuguese: Native | Japanese: Basic  
 - ✉️ matshiaki@gmail.com  
 
----
 
-> "Discipline, persistence and purpose — that's how I approach both code and life."
